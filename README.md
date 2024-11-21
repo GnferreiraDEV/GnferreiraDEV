@@ -41,7 +41,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GnferreiraDEV&theme=dark&hide_border=false&include_all_commits=true"
+        src="[![GnferreiraDEV](https://github-readme-stats.vercel.app/api?username=GnferreiraDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)"
         alt="Github Stats"
       />
     </td>
