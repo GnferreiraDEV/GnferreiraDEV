@@ -41,7 +41,7 @@
     <td>
       <img
         align="left"
-        src=[![card](https://github-readme-stats.vercel.app/api?username=gnferreiradev&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+        src="(https://github-readme-stats.vercel.app/api?username=GnferreiraDEV&theme=default)(https://github.com/anuraghazra/github-readme-stats)"
         alt="Github Stats"
       />
     </td>
