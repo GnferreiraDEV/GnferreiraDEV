@@ -53,6 +53,12 @@
         alt="Github Stats"
       />
     </td>
+    <td>
+      <h3>TEMPO DE CÓDIGO ⏳</h3>
+   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
+
+![bar](https://github.com/user-attachments/assets/60534073-3a58-415f-abb8-db3542fb55ed)
+    </td>
   </tr>
 </table>
 
