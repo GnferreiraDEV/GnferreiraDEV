@@ -7,7 +7,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília - UCB
 - 💼 Trabalhando como Aprendiz em Tecnologia da Informação na BRASAL REFRIGERANTES
-- 🌱 Aprendendo mais sobre desenvolvimento Back-End.
+- 🌱 Aprendendo mais sobre desenvolvimento Back-End em Banco de Dados.
 
 ## Minhas Skills
 
